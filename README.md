@@ -17,4 +17,4 @@
 git clone https://github.com/DAFFD6/Test.git
 ```
 ### 2. 测试更新
-用来测试一键推送脚本的修改内容
+测试一键推送脚本的修改内容
