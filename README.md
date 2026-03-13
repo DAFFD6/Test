@@ -15,3 +15,6 @@
 ### 1. 克隆仓库到本地
 ```bash
 git clone https://github.com/DAFFD6/Test.git
+```
+### 2. 测试更新
+用来测试一键推送脚本的修改内容
